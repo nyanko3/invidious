@@ -24,7 +24,6 @@
   r"https://invidious.privacyredirect.com/",
   r"https://invidious.private.coffee/",
   r"https://invidious.projectsegfau.lt/", # 追加
-  r"https://invidious.reallyaweso.me/", # 追加
   r"https://invidious.slipfox.xyz/",
   r"https://invidious.snopyta.org/", # 追加
   r"https://invidious.tiekoetter.com/",
