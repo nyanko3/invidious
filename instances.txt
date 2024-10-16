@@ -19,7 +19,6 @@
   r"https://invidious.chunboan.zone/", # 追加
   r"https://invidious.drgns.space/",
   r"https://invidious.einfachzocken.eu/", # 追加
-  # 動画読み込み不可 r"https://invidious.ethibox.fr/", # 追加
   r"https://invidious.fdn.fr/",
   r"https://invidious.flokinet.to/", # 追加
   r"https://invidious.jing.rocks/",
@@ -35,7 +34,6 @@
   r"https://invidious.private.coffee/",
   r"https://invidious.projectsegfau.lt/", # 追加
   # DNS r"https://invidious.protokolla.fi/",
-  # 動画取得不可 r"https://invidious.qwik.space/", # 追加
   r"https://invidious.reallyaweso.me/", # 追加
   # DNS r"https://invidious.rhyshl.live/",
   # DNS r"https://invidious.sethforprivacy.com/",
@@ -71,13 +69,9 @@
   r"https://y.com.sb/",
 
   r"https://yewtu.be/",
-
-  # 使えない r"https://youtube.076.ne.jp/",
-  # 動画読み込み不可 r"https://youtube.alt.tyil.nl/", # 追加
   r"https://youtube.lurkmore.com/", # 追加
   r"https://youtube.mosesmang.com/", # 追加
   r"https://youtube.privacyplz.org/", # 追加
-
   r"https://yt.artemislena.eu/", # 追加
   r"https://yt.cdaut.de/",
   r"https://yt.funami.tech/", # 追加
