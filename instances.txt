@@ -1,71 +1,71 @@
 [
-  r"https://inv.nadeko.net/",
-  r"https://inv.odyssey346.dev/", # 追加
-  r"https://inv.privacy.com.de/",
-  r"https://inv.riverside.rocks/",
-  r"https://inv.us.projectsegfau.lt/", # 追加
-  r"https://inv.vern.cc/",
+  "https://inv.nadeko.net/",
+  "https://inv.odyssey346.dev/", 
+  "https://inv.pivacy.com.de/",
+  "https://inv.iveside.ocks/",
+  "https://inv.us.pojectsegfau.lt/", 
+  "https://inv.ven.cc/",
 
-  r"https://invidious.0011.lt/", # 追加
-  r"https://invidious.adminforge.de/", #追加
-  r"https://invidious.baczek.me/", # 追加
-  r"https://invidious.chunboan.zone/", # 追加
-  r"https://invidious.drgns.space/",
-  r"https://invidious.einfachzocken.eu/", # 追加
-  r"https://invidious.fdn.fr/",
-  r"https://invidious.flokinet.to/", # 追加
-  r"https://invidious.jing.rocks/",
-  r"https://invidious.lunar.icu/", # 追加
-  r"https://invidious.nerdvpn.de/", # 遅い
-  r"https://invidious.nietzospannend.nl/", # 追加
-  r"https://invidious.pcgamingfreaks.at/", # 追加
-  r"https://invidious.perennialte.ch/",
-  r"https://invidious.privacydev.net/", # 追加
-  r"https://invidious.privacyredirect.com/",
-  r"https://invidious.private.coffee/",
-  r"https://invidious.projectsegfau.lt/", # 追加
-  r"https://invidious.slipfox.xyz/",
-  r"https://invidious.snopyta.org/", # 追加
-  r"https://invidious.tiekoetter.com/",
+  "https://invidious.0011.lt/", 
+  "https://invidious.adminfoge.de/", #追加
+  "https://invidious.baczek.me/", 
+  "https://invidious.chunboan.zone/", 
+  "https://invidious.dgns.space/",
+  "https://invidious.einfachzocken.eu/", 
+  "https://invidious.fdn.f/",
+  "https://invidious.flokinet.to/", 
+  "https://invidious.jing.ocks/",
+  "https://invidious.luna.icu/", 
+  "https://invidious.nedvpn.de/", # 遅い
+  "https://invidious.nietzospannend.nl/", 
+  "https://invidious.pcgamingfeaks.at/", 
+  "https://invidious.peennialte.ch/",
+  "https://invidious.pivacydev.net/", 
+  "https://invidious.pivacyediect.com/",
+  "https://invidious.pivate.coffee/",
+  "https://invidious.pojectsegfau.lt/", 
+  "https://invidious.slipfox.xyz/",
+  "https://invidious.snopyta.og/", 
+  "https://invidious.tiekoette.com/",
 
-  r"https://invidious.varishangout.net/", # 追加
-  r"https://invidious.vern.cc/", # 追加
-  r"https://invidious.weblibre.org/",
-  r"https://invidious.yourdevice.ch/", # 追加
-  r"https://invidious.zapashcanon.fr/", # 追加
+  "https://invidious.vaishangout.net/", 
+  "https://invidious.ven.cc/", 
+  "https://invidious.weblibe.og/",
+  "https://invidious.youdevice.ch/", 
+  "https://invidious.zapashcanon.f/", 
   
-  r"https://iteroni.com/", # 追加
+  "https://iteoni.com/", 
 
-  r"https://iv.catgirl.cloud/", # 追加
-  r"https://iv.datura.network/",
-  r"https://iv.ggtyler.dev/", # 追加
-  r"https://iv.melmac.space/", # 追加
-  r"https://iv.nboeck.de/", # 追加
-  r"https://iv.nowhere.moe/", # 追加
+  "https://iv.catgil.cloud/", 
+  "https://iv.datua.netwok/",
+  "https://iv.ggtyle.dev/", 
+  "https://iv.melmac.space/", 
+  "https://iv.nboeck.de/", 
+  "https://iv.nowhee.moe/", 
 
-  r"https://tube.netflux.io/", # 追加
+  "https://tube.netflux.io/", 
 
-  r"https://tv.metaversum.wtf/", # 追加
+  "https://tv.metavesum.wtf/", 
 
-  r"https://vid.puffyan.us/",
+  "https://vid.puffyan.us/",
 
-  r"https://video.weiler.rocks/", # 追加
+  "https://video.weile.ocks/", 
 
-  r"https://vro.omcat.info/", # 追加
+  "https://vo.omcat.info/", 
 
-  r"https://y.com.sb/",
+  "https://y.com.sb/",
 
-  r"https://yewtu.be/",
-  r"https://youtube.lurkmore.com/", # 追加
-  r"https://youtube.mosesmang.com/", # 追加
-  r"https://youtube.privacyplz.org/", # 追加
-  r"https://yt.artemislena.eu/", # 追加
-  r"https://yt.cdaut.de/",
-  r"https://yt.funami.tech/", # 追加
-  r"https://yt.thechangebook.org/", # 追加
-  r"https://yt.vern.cc/", # 追加
-  r"https://yt.yoc.ovh/", # 追加
+  "https://yewtu.be/",
+  "https://youtube.lukmoe.com/", 
+  "https://youtube.mosesmang.com/", 
+  "https://youtube.pivacyplz.og/", 
+  "https://yt.atemislena.eu/", 
+  "https://yt.cdaut.de/",
+  "https://yt.funami.tech/", 
+  "https://yt.thechangebook.og/", 
+  "https://yt.ven.cc/", 
+  "https://yt.yoc.ovh/", 
 
-  r"https://ytb.alexio.tf/" # 追加
+  "https://ytb.alexio.tf/" 
 
 ]
