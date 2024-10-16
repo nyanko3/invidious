@@ -16,7 +16,6 @@
   r"https://invidious.flokinet.to/", # 追加
   r"https://invidious.jing.rocks/",
   r"https://invidious.lunar.icu/", # 追加
-  r"https://invidious.namazso.eu/",
   r"https://invidious.nerdvpn.de/", # 遅い
   r"https://invidious.nietzospannend.nl/", # 追加
   r"https://invidious.pcgamingfreaks.at/", # 追加
