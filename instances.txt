@@ -13,5 +13,5 @@
   "https://invidious.rhyshl.live/",
 　 "https://invidious.slipfox.xyz/",
   "https://invidious.weblibre.org/",
-  "https://invidious.namazso.eu/",
+  "https://invidious.namazso.eu/"
 ]
