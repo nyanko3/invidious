@@ -1,6 +1,5 @@
 [
   "https://inv.nadeko.net/",
-  "https://invidious.baczek.me/",
   "https://invidious.flokinet.to/",
   "https://invidious.nietzospannend.nl/",
   "https://invidious.qwik.space/",
