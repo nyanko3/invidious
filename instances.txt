@@ -11,7 +11,7 @@
   "https://inv.bp.projectsegfau.lt/",
   "https://inv.privacy.com.de/",
   "https://invidious.rhyshl.live/",
-　 "https://invidious.slipfox.xyz/",
+  "https://invidious.slipfox.xyz/",
   "https://invidious.weblibre.org/",
   "https://invidious.namazso.eu/"
 ]
