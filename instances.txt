@@ -1,9 +1,7 @@
 [
   "https://inv.nadeko.net/",
   "https://invidious.0011.lt/",
-  "https://invidious.baczek.me/",
   "https://invidious.ethibox.fr/",
-  "https://invidious.flokinet.to/",
   "https://invidious.nietzospannend.nl/",
   "https://invidious.qwik.space/",
   "https://y.com.sb/",
