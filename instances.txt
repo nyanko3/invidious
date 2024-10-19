@@ -1,5 +1,4 @@
 [
-  "https://invidious.0011.lt/",
   "https://invidious.ethibox.fr/",
   "https://invidious.nietzospannend.nl/"
   "https://invidious.qwik.space/",
