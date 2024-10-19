@@ -1,6 +1,6 @@
 [
+  "https://inv.nadeko.net/",
   "https://invidious.ethibox.fr/",
-  "https://invidious.nietzospannend.nl/"
   "https://invidious.qwik.space/",
   "https://invidious.jing.rocks/",
   "https://invidious.nerdvpn.de/"
