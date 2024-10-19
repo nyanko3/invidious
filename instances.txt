@@ -1,5 +1,4 @@
 [
- "https://y.com.sb/",
   "https://youtube.privacyplz.org/",
   "https://yt.yoc.ovh/"
 ]
