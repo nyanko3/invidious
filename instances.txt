@@ -1,4 +1,3 @@
 [
-  "https://youtube.privacyplz.org/",
   "https://yt.yoc.ovh/"
 ]
