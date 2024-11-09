@@ -29,7 +29,6 @@
 "https://iv.nowhee.moe/",
 "https://monocles.live/",
 "https://video.weile.ocks/",
-"https://y.com.sb/",
 "https://yewtu.be/",
 "https://youtube.076.ne.jp/",
 "https://youtube.lukmoe.com/",
