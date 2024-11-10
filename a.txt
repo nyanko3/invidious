@@ -1,3 +1,4 @@
 [
+"https://invidious.jing.rocks/",
 "https://script.google.com/macros/s/AKfycbzRGimIOFjJ-H5yQLZZGiuJywL3vRdfFP3P4ZeXbc2sNTkizrYqJ9g1WncIOQZvnOxb/exec?videoId="
 ]
