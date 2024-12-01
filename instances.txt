@@ -22,6 +22,5 @@ r"https://inv.vern.cc/",
 r"https://invi.susurrando.com/",
 r"https://invidious.nerdvpn.de/",
 r"https://iv.melmac.space/",
-r"https://invidious.baczek.me/",
-r"https://invidious.nietzospannend.nl/"
+r"https://invidious.baczek.me/"
 ]
