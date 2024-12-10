@@ -22,5 +22,8 @@ r"https://invidious.fdn.fr/",
 r"https://inv.vern.cc/",
 r"https://invi.susurrando.com/",
 r"https://invidious.nerdvpn.de/",
-r"https://iv.melmac.space/"
+r"https://iv.melmac.space/",
+r"https://invidious.privacyredirect.com/",
+r"https://youtube.privacyplz.org/",
+r"https://iv.duti.dev/"
 ]
