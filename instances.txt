@@ -26,5 +26,6 @@ r"https://iv.melmac.space/",
 r"https://invidious.privacyredirect.com/",
 r"https://youtube.privacyplz.org/",
 r"https://iv.duti.dev/",
-r"http://invidious.technicalvoid.dev"
+r"http://invidious.technicalvoid.dev",
+r"http://invidious.yourdevice.ch"
 ]
