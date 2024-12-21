@@ -26,6 +26,15 @@ r"https://iv.melmac.space/",
 r"https://invidious.privacyredirect.com/",
 r"https://youtube.privacyplz.org/",
 r"https://iv.duti.dev/",
-r"http://invidious.technicalvoid.dev",
-r"http://invidious.yourdevice.ch"
+r"http://invidious.technicalvoid.dev/",
+r"http://invidious.yourdevice.ch/",
+r"https://pol1.iv.ggtyler.dev/",
+r"https://invidious.materialio.us/",
+r"https://iv.datura.network/",
+r"https://invidious.projectsegfau.lt/",
+r"https://invidious.perennialte.ch/",
+r"https://yt.artemislena.eu/",
+r"https://invidious.esmailelbob.xyz/",
+r"https://invidious.dhusch.de/",
+r"https://inv.odyssey346.dev/"
 ]
