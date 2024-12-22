@@ -52,5 +52,6 @@ r"https://inv.bp.projectsegfau.lt/",
 r"https://invidious.rhyshl.live/",
 r"https://invidious.ethibox.fr/",
 r"https://invidious.namazso.eu/",
-r"https://iv.nowhere.moe/"
+r"https://iv.nowhere.moe/",
+r"https://cal1.iv.ggtyler.dev/"
 ]
