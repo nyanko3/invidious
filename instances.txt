@@ -49,6 +49,6 @@ r"https://invidious.rhyshl.live/",
 r"https://invidious.ethibox.fr/",
 r"https://invidious.namazso.eu/",
 r"https://iv.nowhere.moe/",
-r"https://pol1.iv.ggtyler.dev",
-r"https://eu-proxy.poketube.fun"
+r"https://pol1.iv.ggtyler.dev/",
+r"https://eu-proxy.poketube.fun/"
 ]
